@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ene.",
+    "consumption": 10,
+    "pay": 220
+  },
+  {
+    "name": "Feb.",
+    "consumption": 20,
+    "pay": 440
+  },
+  {
+    "name": "Mar.",
+    "consumption": 30,
+    "pay": 660
+  },
+  {
+    "name": "Abr.",
+    "consumption": 40,
+    "pay": 880
+  },
+  {
+    "name": "May.",
+    "consumption": 50,
+    "pay": 1100
+  },
+  {
+    "name": "Jun.",
+    "consumption": 20,
+    "pay": 440
+  },
+  {
+    "name": "Jul.",
+    "consumption": 10,
+    "pay": 220
+  },
+  {
+    "name": "Ago.",
+    "consumption": 20,
+    "pay": 440
+  },
+  {
+    "name": "Sep.",
+    "consumption": 40,
+    "pay": 880
+  },
+  {
+    "name": "Oct.",
+    "consumption": 20,
+    "pay": 440
+  },
+  {
+    "name": "Nov.",
+    "consumption": 10,
+    "pay": 220
+  },
+  {
+    "name": "Dic.",
+    "consumption": 10,
+    "pay": 220
+  }
+]
